@@ -18,6 +18,7 @@ To get data in JSON format run
 
 And it will save the data in data.json file.
 
+Example: Image showing successful submission of Python 3 language which are accepted. Here page limit was set to 4.
 <img src="https://i.stack.imgur.com/NWcqC.png"/>
 
 ### Requirements
