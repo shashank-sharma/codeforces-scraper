@@ -1,5 +1,6 @@
 # codeforces-scraper
 Scrapy spider to scrape codeforces site and get all the successful submission for one particular language.
+Also to scrape top rated users for each particular language.
 
 Spider location: cfspider/spiders/cf.py
 
