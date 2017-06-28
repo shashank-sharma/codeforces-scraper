@@ -29,3 +29,4 @@ To run this on your local machine just create one virtual environment and clone 
 `pip install Scrapy`
 
 And then you can run it successfully.
+If yoi find any issue feel free to create one here.
